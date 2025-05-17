@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathvik Reddy</h1>
 <h3 align="center">I am Passionate about Computer's and Programming</h3>
 
-- 🌱 I’m currently learning **Web Dev, Competetive Programming**
+- 🌱 I’m currently learning **Competetive Programming**
 
 - 📫 How to reach me **samalasathvikreddy7002@gmail.com**
 
